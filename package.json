@@ -1,6 +1,6 @@
 {
   "name": "dgeni-nelmio",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Dgeni package for processing the JSON output for the NelmioApiDocBundle",
   "main": "index.js",
   "repository": {
